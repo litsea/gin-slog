@@ -65,5 +65,5 @@ r.Use(log.Middleware(gl), gsl)
 ```
 
 > * See:
->   * [log](https://github.com/litsea/log)
+>   * [log-slog](https://github.com/litsea/log-slog)
 >   * [gin-api](https://github.com/litsea/gin-api)
